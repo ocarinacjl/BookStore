@@ -1,0 +1,16 @@
+
+*{ 
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 12px; 
+	margin:0;
+	padding:0;
+}
+#left{
+}
+ul.leftBook{
+	display:block;
+	margin:0 auto;
+	width:500px;
+}
+img{ border: 0px;}
+li{ list-style: none; }
